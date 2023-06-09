@@ -1,0 +1,3 @@
+copiar dll mysql para executar o aplicativo
+criar uma pasta pedidos na unidade C:\ da maquina e copiar a 
+lybmySQL.ddl para dentro dela.
